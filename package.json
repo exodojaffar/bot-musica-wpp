@@ -1,0 +1,28 @@
+{
+  "name": "bot-musica-wpp",
+  "version": "1.0.0",
+  "description": "WhatsApp send music bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exodojaffar/bot-musica-wpp.git"
+  },
+  "keywords": [
+    "wpp",
+    "bot",
+    "music"
+  ],
+  "author": "Exodo Jaffar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exodojaffar/bot-musica-wpp/issues"
+  },
+  "homepage": "https://github.com/exodojaffar/bot-musica-wpp#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
