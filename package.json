@@ -23,6 +23,9 @@
   "homepage": "https://github.com/exodojaffar/bot-musica-wpp#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "dotenv": "^8.2.0",
+    "firebase-admin": "^9.6.0",
+    "uuid-v4": "^0.1.0",
+    "ws": "^7.4.4"
   }
 }
